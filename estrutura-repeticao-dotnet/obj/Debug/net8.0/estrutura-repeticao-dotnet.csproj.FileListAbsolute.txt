@@ -1,0 +1,14 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\bin\Debug\net8.0\estrutura-repeticao-dotnet.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\bin\Debug\net8.0\estrutura-repeticao-dotnet.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\bin\Debug\net8.0\estrutura-repeticao-dotnet.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\bin\Debug\net8.0\estrutura-repeticao-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\bin\Debug\net8.0\estrutura-repeticao-dotnet.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\refint\estrutura-repeticao-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\estrutura-repeticao-dotnet.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\estrutura-repeticao-dotnet\obj\Debug\net8.0\ref\estrutura-repeticao-dotnet.dll

@@ -1,0 +1,14 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\bin\Debug\net8.0\desafio-projeto-estacionamento.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\bin\Debug\net8.0\desafio-projeto-estacionamento.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\bin\Debug\net8.0\desafio-projeto-estacionamento.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\bin\Debug\net8.0\desafio-projeto-estacionamento.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\bin\Debug\net8.0\desafio-projeto-estacionamento.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\refint\desafio-projeto-estacionamento.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\desafio-projeto-estacionamento.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\desafio-projeto-estacionamento\obj\Debug\net8.0\ref\desafio-projeto-estacionamento.dll

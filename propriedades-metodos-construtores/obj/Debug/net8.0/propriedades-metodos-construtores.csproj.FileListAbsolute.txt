@@ -1,0 +1,14 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\bin\Debug\net8.0\propriedades-metodos-construtores.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\bin\Debug\net8.0\propriedades-metodos-construtores.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\bin\Debug\net8.0\propriedades-metodos-construtores.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\bin\Debug\net8.0\propriedades-metodos-construtores.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\bin\Debug\net8.0\propriedades-metodos-construtores.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\refint\propriedades-metodos-construtores.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\propriedades-metodos-construtores.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\propriedades-metodos-construtores\obj\Debug\net8.0\ref\propriedades-metodos-construtores.dll

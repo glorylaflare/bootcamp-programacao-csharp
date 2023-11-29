@@ -1,0 +1,14 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\refint\arrays-e-listas.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\arrays-e-listas\obj\Debug\net8.0\ref\arrays-e-listas.dll

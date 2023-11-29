@@ -1,0 +1,14 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\bin\Debug\net8.0\filas-dotnet.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\bin\Debug\net8.0\filas-dotnet.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\bin\Debug\net8.0\filas-dotnet.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\bin\Debug\net8.0\filas-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\bin\Debug\net8.0\filas-dotnet.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\refint\filas-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\filas-dotnet.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\filas-dotnet\obj\Debug\net8.0\ref\filas-dotnet.dll

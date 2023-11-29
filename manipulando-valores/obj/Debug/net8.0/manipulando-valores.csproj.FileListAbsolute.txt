@@ -1,0 +1,14 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\bin\Debug\net8.0\manipulando-valores.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\bin\Debug\net8.0\manipulando-valores.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\bin\Debug\net8.0\manipulando-valores.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\bin\Debug\net8.0\manipulando-valores.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\bin\Debug\net8.0\manipulando-valores.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\refint\manipulando-valores.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\manipulando-valores.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\manipulando-valores\obj\Debug\net8.0\ref\manipulando-valores.dll
