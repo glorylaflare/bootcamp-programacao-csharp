@@ -1,0 +1,15 @@
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\bin\Debug\net8.0\POO-dotnet.exe
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\bin\Debug\net8.0\POO-dotnet.deps.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\bin\Debug\net8.0\POO-dotnet.runtimeconfig.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\bin\Debug\net8.0\POO-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\bin\Debug\net8.0\POO-dotnet.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.AssemblyInfoInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.AssemblyInfo.cs
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.csproj.CoreCompileInputs.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.sourcelink.json
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\refint\POO-dotnet.dll
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.pdb
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\POO-dotnet.genruntimeconfig.cache
+E:\Programação\Cursos\Dio\C#\bootcamp-programação-C#-com-CRM-dynamics\POO-dotnet\obj\Debug\net8.0\ref\POO-dotnet.dll
